@@ -1,0 +1,12 @@
+C:\Users\David\source\repos\MonsterPunch\bin\Release\MonsterPunch.exe.config
+C:\Users\David\source\repos\MonsterPunch\bin\Release\MonsterPunch.exe
+C:\Users\David\source\repos\MonsterPunch\bin\Release\MonsterPunch.pdb
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.MonsterPunchFront.resources
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.Main.resources
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.MonsterPunchMenu.resources
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.Properties.Resources.resources
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.csproj.GenerateResource.cache
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.exe
+C:\Users\David\source\repos\MonsterPunch\obj\Release\MonsterPunch.pdb
